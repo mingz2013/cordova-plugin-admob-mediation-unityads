@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-admob-mediation-unityads",
+  "version": "1.0.0",
+  "description": "cordova plugin admob mediation unityads",
+  "main": "www/AdMobMediationUnityAds.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingz2013/cordova-plugin-admob-mediation-unityads.git"
+  },
+  "keywords": [
+    "cordova",
+    "admob",
+    "mediation",
+    "unityads"
+  ],
+  "author": "mingz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingz2013/cordova-plugin-admob-mediation-unityads/issues"
+  },
+  "homepage": "https://github.com/mingz2013/cordova-plugin-admob-mediation-unityads#readme"
+}
